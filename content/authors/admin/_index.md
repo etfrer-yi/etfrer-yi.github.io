@@ -38,7 +38,7 @@ education:
     date_start: 2020-09-01
     date_end: 2025-05-01
     summary: |
-      Honours Computer Science Student at the University of Waterloo, coop option
+      Honours Computer Science Student, Coop Option, at the University of Waterloo
 
 work:
   - position: Software Engineer Intern
@@ -74,10 +74,4 @@ work:
     summary: |
       Built data visualization tools for food scientists to visualize data filtered and processed via scripting
 
-
-languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 100
 ---
