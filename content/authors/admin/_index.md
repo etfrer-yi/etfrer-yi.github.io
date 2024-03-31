@@ -31,11 +31,11 @@ profiles:
 
 education:
   - area: Computer Science
-    institution: Stanford University
+    institution: University of Waterloo
     date_start: 2020-09-01
     date_end: 2025-05-01
     summary: |
-      Honours Computer Science Student, Coop Option, at the University of Waterloo
+      Honours Computer Science Student, Coop Option
 
 work:
   - position: Software Engineer Intern
