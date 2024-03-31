@@ -35,8 +35,8 @@ profiles:
 education:
   - area: Computer Science
     institution: Stanford University
-    date_start: 2020-09
-    date_end: 2025-05
+    date_start: 2020-09-01
+    date_end: 2025-05-01
     summary: |
       Honours Computer Science Student at the University of Waterloo, coop option
 
@@ -45,32 +45,32 @@ work:
     company_name: Setori.ai
     company_url: ''
     company_logo: ''
-    date_start: 2024-01
-    date_end: 2024-05
+    date_start: 2024-01-01
+    date_end: 2024-05-01
     summary: |
       Developed full-stack features for an AI companion Chrome extension
   - position: Software Developer Intern
     company_name: Intuit
     company_url: ''
     company_logo: ''
-    date_start: 2023-05
-    date_end: 2023-08
+    date_start: 2023-05-01
+    date_end: 2023-08-01
     summary: |
       Fixed UI bugs in TurboTax and its Storybook (UI library), built a command-line interface for dependency version management
   - position: Full Stack Developer Intern
     company_name: Empire Life Insurance
     company_url: ''
     company_logo: ''
-    date_start: 2022-09
-    date_end: 2022-12
+    date_start: 2022-09-01
+    date_end: 2022-12-01
     summary: |
       Created user management dashboard(s) using OAuth protocols/flows
   - position: Data Analytics Programming Assistant Intern
     company_name: Health Canada
     company_url: ''
     company_logo: ''
-    date_start: 2022-09
-    date_end: 2022-12
+    date_start: 2022-09-01
+    date_end: 2022-12-01
     summary: |
       Built data visualization tools for food scientists to visualize data filtered and processed via scripting
 
