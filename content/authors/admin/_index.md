@@ -66,8 +66,8 @@ work:
     company_name: Health Canada
     company_url: ''
     company_logo: ''
-    date_start: 2022-09-01
-    date_end: 2022-12-01
+    date_start: 2022-01-01
+    date_end: 2022-04-01
     summary: |
       Built data visualization tools for food scientists to visualize data filtered and processed via scripting
 
